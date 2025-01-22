@@ -26,5 +26,5 @@ function Car(){
 }
 export default Car; 
 {
-  /*this code for state*/
+  /*this code for state using object*/
 }

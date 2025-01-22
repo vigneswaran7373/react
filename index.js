@@ -23,6 +23,7 @@ root.render(
     <Detail/>
     <Car/>
     <App2/>
+    <Router/>
   </React.StrictMode>
 );
 
